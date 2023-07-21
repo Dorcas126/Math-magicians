@@ -77,6 +77,7 @@ This is the first project of the Math Magicians application. I will set up the e
 
 To get a local copy up and running, follow these steps.
 just visit my repo folder (https://github.com/Dorcas126/math-magicians.git)
+
 [Live link](https://64ba52bb83837d76fcf7e163--singular-centaur-e60074.netlify.app/)
 
 ### Prerequisites
